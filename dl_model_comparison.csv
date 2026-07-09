@@ -1,0 +1,5 @@
+Model,R² Score,MAE,RMSE
+DL Model 1,0.789,0.947,1.576
+DL Model 2,0.763,1.025,1.67
+DL Model 3,0.756,1.127,1.695
+DL Model 4,0.772,0.961,1.638

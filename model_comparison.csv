@@ -1,0 +1,6 @@
+Model,R² Score,MAE,RMSE
+Linear Regression,0.794,0.9,1.559
+Ridge Regression,0.793,0.9,1.56
+Random Forest,0.779,0.967,1.612
+XGBoost,0.758,0.978,1.688
+Deep Learning (Keras),0.766,0.947,1.66
